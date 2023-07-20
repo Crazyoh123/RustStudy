@@ -30,14 +30,14 @@ Write a function to check if an array is a palindrome (i.e., reads the same forw
 
 <h1>String Problems</h1>
 <p>
-Write a function to check if a given string is a palindrome (reads the same forwards and backwards).
-Implement a program to find the length of the longest word in a sentence.
-Create a function to count the occurrences of a specific character in a string.
-Write a program to reverse the order of words in a sentence.
-Implement a function to check if two strings are anagrams (contain the same characters but in a different order).
-Create a program to find the first non-repeated character in a string.
-Write a function to remove all whitespace characters from a string.
-Implement a program to convert a string to uppercase or lowercase.
-Create a function to find the most common character in a string.
-Write a program to check if a string is a valid palindrome after removing non-alphanumeric characters and ignoring case.
+Write a function to check if a given string is a palindrome (reads the same forwards and backwards).<br>
+Implement a program to find the length of the longest word in a sentence.<br>
+Create a function to count the occurrences of a specific character in a string.<br>
+Write a program to reverse the order of words in a sentence.<br>
+Implement a function to check if two strings are anagrams (contain the same characters but in a different order).<br>
+Create a program to find the first non-repeated character in a string.<br>
+Write a function to remove all whitespace characters from a string.<br>
+Implement a program to convert a string to uppercase or lowercase.<br>
+Create a function to find the most common character in a string.<br>
+Write a program to check if a string is a valid palindrome after removing non-alphanumeric characters and ignoring case.<br>
 </p>
