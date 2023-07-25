@@ -41,3 +41,16 @@ Implement a program to convert a string to uppercase or lowercase.<br>
 Create a function to find the most common character in a string.<br>
 Write a program to check if a string is a valid palindrome after removing non-alphanumeric characters and ignoring case.<br>
 </p>
+<h1>Matrix Problems</h1>
+<p>
+Matrix Addition: Write a function to add two matrices of the same size.<br>
+Matrix Multiplication: Write a function to multiply two matrices.<br>
+Transpose Matrix: Write a function to find the transpose of a given matrix.<br>
+Matrix Determinant: Write a function to find the determinant of a square matrix.<br>
+Check Identity Matrix: Write a function to check if a given matrix is an identity matrix.<br>
+Matrix Rank: Write a function to find the rank of a matrix.<br>
+Symmetric Matrix: Write a function to check if a given matrix is symmetric.<br>
+Sparse Matrix: Write a function to check if a given matrix is sparse (contains mostly zero elements).<br>
+Upper Triangular Matrix: Write a function to check if a given matrix is upper triangular.<br>
+Lower Triangular Matrix: Write a function to check if a given matrix is lower triangular.<br>
+</p>
